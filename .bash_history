@@ -126,3 +126,53 @@ ls .ssh
 ls
 su -c ls .ssh root
 exit
+cd
+node-red
+node-red
+exit
+cd
+node-red
+node-red
+ls
+nano INVDT1
+nano INVDT1
+clear
+node-red
+lewar
+clear
+ls
+nano INVDT1
+node-red
+ls
+nano INVDT1
+node-red
+node-red
+nano INVDT1
+node-red
+nano INVDT1
+node-red
+nano INVDT1
+node-red
+nano INVDT1
+nano INVDT1
+node-red
+ls
+nano Compiled
+node-red
+ls
+nano Compiled
+nano ENGDT1
+node-red
+nano ENGDT1
+node-red
+nano ENGDT1
+nano Compiled
+nodeclear
+clear
+ls
+rm Compiled
+rm ENGDT1
+rm INVDT1
+ls
+node-red
+exit
